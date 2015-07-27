@@ -1,4 +1,4 @@
-require 'rspec/core/configuration'
+require 'rspec'
 
 module RSpec
   module Core
